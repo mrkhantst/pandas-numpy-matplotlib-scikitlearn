@@ -14,6 +14,6 @@ You should practice pandas fist and then numpy and matplotlib.
 
 ----
 
-Practice, Practice, Practice and Practice - Daniel Bourke
+Practice, Practice, Practice and Practice - [Daniel Bourke](https://github.com/mrdbourke)
 
 Learn from mistakes - Stark's principle.
